@@ -42,12 +42,13 @@
     text-align: center;
 }
 
-/*div del centro*/
+/*div principal*/
 #main {
     width: 50%;
     margin: auto;
 }
 
+/*texto del div principal*/
 .texto {
     text-align: center;
 }
