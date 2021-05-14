@@ -1,0 +1,53 @@
+
+/*Tamaño de los logos*/barraNav
+#logoCodo {
+    height: 65px;
+    width: 100px;
+}
+
+#logoHTML {
+    height: 100px;
+    width: 100px;
+    margin-left: 50px;
+}
+
+#logoCSS {
+    height: 100px;
+    width: 100px;
+}
+
+/*navegadores header y footer*/
+.navHeader {
+    background-color:gray ;
+    height: 35px;
+    
+    margin-bottom: 15px;
+    margin-top: 15px;
+    margin-left: -10px;
+    margin-right: -10px;
+
+    text-align: right;
+    padding-top: 20px;
+    padding-right: 10px;
+}
+
+.navFooter {
+    background-color: grey;
+    height: 20px;
+
+    margin-top: 30px;
+    margin-left: -10px;
+    margin-right: -10px;
+
+    text-align: center;
+}
+
+/*div del centro*/
+#main {
+    width: 50%;
+    margin: auto;
+}
+
+.texto {
+    text-align: center;
+}
